@@ -1,0 +1,4 @@
+[
+  {"pid": 1, "pname": "河南", "citys": [{"cid": 2, "cname": "信阳"}, {"cid": 3, "cname": "郑州"}]},
+  {"pid": 2, "pname": "上海", "cityes": [{"cid": 21, "cname": "徐汇"}, {"cid": 22, "cname": "浦东"}]}
+]

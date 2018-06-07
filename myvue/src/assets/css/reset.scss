@@ -1,0 +1,21 @@
+@import './_variable.scss';
+*{
+  margin: 0;
+  padding: 0;
+}
+html, body {
+ font-size: 12px;
+ background-color: #f8fafc;
+ font: 14px/1.5 "PingFang SC", "Microsoft YaHei", Helvetica, "Helvetica Neue", Tahoma, Arial, sans-serif;
+ color: #1c1f21;
+}
+a {
+  text-decoration: none;
+}
+ul li {
+  list-style: none;
+}
+.color{
+  color: red;
+}
+
